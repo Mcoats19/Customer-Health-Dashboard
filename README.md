@@ -1,24 +1,31 @@
-# Customer Health Dashboard
+# 🚀 Customer Health Dashboard
 
-## Overview
-The Customer Health Dashboard is an interactive tool designed to monitor and analyze customer health metrics, including:
-- **Retention Rates**
-- **Satisfaction Scores**
-- **Feature Adoption**
+![Dashboard Preview]((https://github.com/Mcoats19/Customer-Health-Dashboard/blob/main/Screen%20Shot%202024-12-05%20at%202.21.33%20PM.png?raw=true))
 
-Built using:
-- **Python**
-- **Dash**, **Plotly**, and **Bootstrap**
+## 🎯 Overview
+The **Customer Health Dashboard** is a simple yet **interactive tool** designed to monitor and analyze customer health metrics. It includes:
+- 📊 **Retention Rates**
+- 😊 **Satisfaction Scores**
+- 💡 **Feature Adoption**
 
-Mock data ensures privacy while showcasing my ability to create data-driven insights.
+This dashboard is built using:
+- 🐍 **Python**
+- 📦 **Dash**, **Plotly**, and **Bootstrap**
 
-## Features
-- Dynamic dropdown to switch between key performance indicators (KPIs).
-- Interactive bar charts to analyze customer metrics.
-- Responsive design with Bootstrap for improved visuals.
+Mock data ensures privacy while demonstrating technical and analytical skills.
 
-## How to Run
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/Mcoats19/Customer-Health-Dashboard.git
-   cd Customer-Health-Dashboard
+---
+
+## ✨ Features
+- 🔄 **Dynamic Dropdown**: Select key performance indicators (KPIs) to visualize.
+- 📈 **Interactive Bar Charts**: Analyze customer data in real-time.
+- 💻 **Responsive Design**: Built with Bootstrap for a modern, clean UI.
+
+---
+
+## 🛠️ How to Run
+
+### Clone the Repository
+```bash
+git clone https://github.com/Mcoats19/Customer-Health-Dashboard.git
+cd Customer-Health-Dashboard
