@@ -1,9 +1,9 @@
 # 🚀 Customer Health Dashboard
 
-![Dashboard Preview]((https://github.com/Mcoats19/Customer-Health-Dashboard/blob/main/Screen%20Shot%202024-12-05%20at%202.21.33%20PM.png?raw=true))
+![Dashboard Preview](https://github.com/Mcoats19/Customer-Health-Dashboard/blob/main/Screen%20Shot%202024-12-05%20at%202.21.33%20PM.png?raw=true)
 
 ## 🎯 Overview
-The **Customer Health Dashboard** is a simple yet **interactive tool** designed to monitor and analyze customer health metrics. It includes:
+The **Customer Health Dashboard** is an **interactive tool** designed to monitor and analyze customer health metrics. It includes:
 - 📊 **Retention Rates**
 - 😊 **Satisfaction Scores**
 - 💡 **Feature Adoption**
